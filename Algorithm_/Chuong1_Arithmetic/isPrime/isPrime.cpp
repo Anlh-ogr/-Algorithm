@@ -10,6 +10,5 @@ bool isPrime(int nVal) {
 int main() {
     std::cout<<"Enter n: ";
     int n; std::cin>>n;
-
     isPrime(n)?std::cout<<"true":std::cout<<"false";
 }
