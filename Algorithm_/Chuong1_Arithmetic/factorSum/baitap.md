@@ -29,7 +29,7 @@ Cách kiểm tra một số nguyên dương n có phải là số nguyên tố h
 - Nhận thấy rằng một số nguyên `n > 1` không phải là một số nguyên tố khi và chỉ khi `n` có thể biểu diễn dưới dạng: `n = x * y`, với `x,y` là hai số nguyên dương lớn hơn `1`.
   - Giả sử rằng `x<=y => x*x<=x*y=n => x<=√n`.
   - Từ nhận xét trên ta thấy rằng để kiểm tra xem n có chia hết cho một số nào nhỏ hơn nó hay không ta chỉ việc xét các số từ `2` đến `√n` thay vì xét các số từ `2` đến `n-1` như **isPrime**
-  ```c++
+  ```cpp
     bool isPrime(int n) {
         if (n<=1) return false;
         for (int i = 2; i*i <= n; ++i)
