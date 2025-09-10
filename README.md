@@ -172,3 +172,6 @@ Nâng cao khả năng tư duy logic và kỹ năng giải quyết vấn đề.
 Giúp bạn tự tin áp dụng các thuật toán vào các dự án thực tế và nghiên cứu.
 
 Cải thiện khả năng lập trình với những thuật toán mạnh mẽ để giải quyết các bài toán lập trình phức tạp.
+
+### **Tài liệu học giải thuật**
+https://codelearn.io/learning/thuat-toan-can-ban?tab=introduce
